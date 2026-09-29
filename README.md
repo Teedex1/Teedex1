@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 I just started learning Cloud computing from Learn to Cloud. Excited to start this learning journey.
-[catch me on X](https://twitter.com/Rteedex)  
+
+
+Catch me on [X](https://twitter.com/Rteedex)  
 
 <!--
 **Teedex1/Teedex1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
