@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Cloud computing from Learn to Cloud.
+Building in Cloud Engineering. Sharing practical projects and structured technical write-ups on Linux, networking, and DevOps.
+
+
 
 Writing weekly on [dev.to](https://dev.to/tunde-dev) & [Hashnode](https://hashnode.com/@tunde-dev)
 
@@ -21,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Cloud computing from Learn to Cloud.
