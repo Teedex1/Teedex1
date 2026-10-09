@@ -2,6 +2,8 @@
 
 Cloud computing from Learn to Cloud.
 
+Writing weekly on dev.to(https://dev.to/tunde-dev) & Hashnode <(https://hashnode.com/@tunde-dev)/>
+
 
 Catch me on [X](https://twitter.com/Rteedex)  
 
