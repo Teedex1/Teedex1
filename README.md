@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I just started learning Cloud computing from Learn to Cloud. Excited to start this learning journey.
+Cloud computing from Learn to Cloud.
 
 
 Catch me on [X](https://twitter.com/Rteedex)  
